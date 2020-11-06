@@ -1,0 +1,35 @@
+{
+  "name": "coderrpc",
+  "version": "1.0.0",
+  "description": "Useless little RPC thing for telling people when you are asleep and how long until you're awake. ",
+  "main": "rpc.js",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "discord-rpc": "^3.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberCDN/CoderRPC.git"
+  },
+  "keywords": [
+    "coderrpc",
+    "discord-rpc",
+    "discord",
+    "rpc",
+    "rich",
+    "presence",
+    "sleep",
+    "and",
+    "awake"
+  ],
+  "author": "CyberCDN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyberCDN/CoderRPC/issues"
+  },
+  "homepage": "https://github.com/CyberCDN/CoderRPC#readme"
+}

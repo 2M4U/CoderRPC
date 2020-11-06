@@ -1,0 +1,44 @@
+{
+    "appid": "APPID",
+    "interval": 0.5,
+    "rpc": {
+        "awake": {
+            "details": "Im Awake.",
+            "state": "Only awake for a few hours :D",
+            "endTimestamp": true,
+            "largeImageKey": "awake",
+            "largeImageText": "I'm Awake!!!",
+            "smallImageKey": false,
+            "smallImageText": false,
+            "joinButton": false,
+            "spectateButton": false
+        },
+        "sleep": {
+            "details": "Currently sleeping.",
+            "state": "Will Reply In The Morning!",
+            "largeImageKey": "wolfhowl",
+            "largeImageText": "zZzZzz...",
+            "endTimestamp": true,
+            "joinButton": false,
+            "spectateButton": true
+        }
+    },
+    "sleepTime": [
+        [23, 8],
+        [23, 8],
+        [23, 8],
+        [23, 8],
+        [23, 8],
+        [23, 8],
+        [23, 8]
+    ],
+    "awakeTime": [
+        [8, 23],
+        [8, 23],
+        [8, 23],
+        [8, 23],
+        [8, 23],
+        [8, 23],
+        [8, 23]
+    ]
+}
